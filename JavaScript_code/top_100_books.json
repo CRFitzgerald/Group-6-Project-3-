@@ -1,4 +1,3 @@
-[
   {
     "image": "https://m.media-amazon.com/images/I/71ok9jCkgVL._AC_UY218_.jpg",
     "title": "Lessons in Chemistry: A Novel",
@@ -15,7 +14,13 @@
       "Paperback": "$27.90",
       "Spiral-bound": "$37.81"
     },
-    "rating_breakdown": ["1", "1", "6", "20", "72"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "6",
+      "20",
+      "72"
+    ],
     "ranking": [
       "#5 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in Historical Fiction (Books)",
@@ -38,7 +43,13 @@
       "Hardcover": "$15.49",
       "Paperback": "$25.49"
     },
-    "rating_breakdown": ["1", "2", "10", "28", "59"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "10",
+      "28",
+      "59"
+    ],
     "ranking": []
   },
   {
@@ -57,7 +68,13 @@
       "Paperback": "$31.05",
       "Audio": "$41.57"
     },
-    "rating_breakdown": ["1", "2", "5", "18", "74"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "5",
+      "18",
+      "74"
+    ],
     "ranking": [
       "#19 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in Small Town & Rural Fiction (Audible Books & Originals)",
@@ -81,7 +98,13 @@
       "Paperback": "$15.19",
       "Audio": "$33.27"
     },
-    "rating_breakdown": ["1", "1", "5", "22", "71"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "5",
+      "22",
+      "71"
+    ],
     "ranking": [
       "#3 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in Mysteries (Audible Books & Originals)",
@@ -105,7 +128,13 @@
       "Paperback": "$9.57",
       "Audio": "$14.99"
     },
-    "rating_breakdown": ["1", "1", "4", "16", "78"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "4",
+      "16",
+      "78"
+    ],
     "ranking": []
   },
   {
@@ -124,7 +153,13 @@
       "Paperback": "$34.74",
       "Audio": "$37.67"
     },
-    "rating_breakdown": ["2", "2", "8", "27", "60"],
+    "rating_breakdown": [
+      "2",
+      "2",
+      "8",
+      "27",
+      "60"
+    ],
     "ranking": [
       "#31 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#3 in Fiction Sagas",
@@ -147,7 +182,13 @@
       "Hardcover": "$22.99",
       "Paperback": "$26.99"
     },
-    "rating_breakdown": ["2", "2", "5", "20", "71"],
+    "rating_breakdown": [
+      "2",
+      "2",
+      "5",
+      "20",
+      "71"
+    ],
     "ranking": []
   },
   {
@@ -166,7 +207,13 @@
       "Paperback": "$28.97",
       "Audio": "$30.32"
     },
-    "rating_breakdown": ["1", "1", "4", "15", "80"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "4",
+      "15",
+      "80"
+    ],
     "ranking": [
       "#18 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in Dysfunctional Families (Audible Books & Originals)",
@@ -190,7 +237,13 @@
       "Paperback": "$18.00",
       "Audio": "$61.52"
     },
-    "rating_breakdown": ["1", "2", "6", "18", "74"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "6",
+      "18",
+      "74"
+    ],
     "ranking": [
       "#25 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in Supernatural Thrillers (Books)",
@@ -214,7 +267,13 @@
       "Paperback": "$35.30",
       "Spiral-bound": "$31.96"
     },
-    "rating_breakdown": ["2", "2", "4", "10", "82"],
+    "rating_breakdown": [
+      "2",
+      "2",
+      "4",
+      "10",
+      "82"
+    ],
     "ranking": []
   },
   {
@@ -233,7 +292,13 @@
       "Paperback": "$13.48",
       "Audio": "$33.27"
     },
-    "rating_breakdown": ["1", "1", "3", "9", "87"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "3",
+      "9",
+      "87"
+    ],
     "ranking": [
       "#47 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in Self-Esteem (Audible Books & Originals)",
@@ -257,7 +322,13 @@
       "Paperback": "$21.49",
       "Audio": "$30.06"
     },
-    "rating_breakdown": ["2", "4", "13", "28", "53"],
+    "rating_breakdown": [
+      "2",
+      "4",
+      "13",
+      "28",
+      "53"
+    ],
     "ranking": []
   },
   {
@@ -275,7 +346,13 @@
       "Hardcover": "$24.99",
       "Paperback": "$25.00"
     },
-    "rating_breakdown": ["1", "1", "3", "14", "81"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "3",
+      "14",
+      "81"
+    ],
     "ranking": [
       "#784 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in Zoology (Books)",
@@ -299,7 +376,13 @@
       "Paperback": "\u2014",
       "Audio": "\u2014"
     },
-    "rating_breakdown": ["1", "2", "5", "15", "76"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "5",
+      "15",
+      "76"
+    ],
     "ranking": [
       "#302 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in Social Activist Biographies",
@@ -323,7 +406,13 @@
       "Paperback": "$18.00",
       "Audio": "$32.04"
     },
-    "rating_breakdown": ["1", "2", "9", "31", "57"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "9",
+      "31",
+      "57"
+    ],
     "ranking": []
   },
   {
@@ -342,7 +431,13 @@
       "Paperback": "$25.46",
       "Audio": "$23.99"
     },
-    "rating_breakdown": ["2", "3", "10", "21", "64"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "10",
+      "21",
+      "64"
+    ],
     "ranking": [
       "#111 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in Television Performer Biographies",
@@ -365,7 +460,13 @@
       "Hardcover": "$18.78",
       "Paperback": "$15.30"
     },
-    "rating_breakdown": ["2", "3", "13", "31", "51"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "13",
+      "31",
+      "51"
+    ],
     "ranking": []
   },
   {
@@ -384,7 +485,13 @@
       "Paperback": "$18.00",
       "Audio": "$24.98"
     },
-    "rating_breakdown": ["2", "2", "8", "17", "71"],
+    "rating_breakdown": [
+      "2",
+      "2",
+      "8",
+      "17",
+      "71"
+    ],
     "ranking": []
   },
   {
@@ -403,7 +510,13 @@
       "Paperback": "$38.46",
       "Audio": "$33.75"
     },
-    "rating_breakdown": ["2", "1", "4", "10", "83"],
+    "rating_breakdown": [
+      "2",
+      "1",
+      "4",
+      "10",
+      "83"
+    ],
     "ranking": [
       "#667 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in American Civil War",
@@ -427,7 +540,13 @@
       "Paperback": "$21.00",
       "Audio": "$37.66"
     },
-    "rating_breakdown": ["1", "1", "5", "16", "77"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "5",
+      "16",
+      "77"
+    ],
     "ranking": []
   },
   {
@@ -446,7 +565,13 @@
       "Paperback": "$28.12",
       "Audio": "$29.99"
     },
-    "rating_breakdown": ["1", "1", "4", "14", "79"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "4",
+      "14",
+      "79"
+    ],
     "ranking": [
       "#824 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in Science Essays & Commentary (Books)",
@@ -469,7 +594,13 @@
       "Hardcover": "$23.75",
       "Paperback": "$16.20"
     },
-    "rating_breakdown": ["1", "1", "5", "17", "75"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "5",
+      "17",
+      "75"
+    ],
     "ranking": [
       "#1,114 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in Hispanic & Latin Biographies",
@@ -493,7 +624,13 @@
       "Paperback": "$15.30",
       "Audio": "$32.95"
     },
-    "rating_breakdown": ["1", "3", "12", "32", "52"],
+    "rating_breakdown": [
+      "1",
+      "3",
+      "12",
+      "32",
+      "52"
+    ],
     "ranking": []
   },
   {
@@ -512,7 +649,13 @@
       "Paperback": "$21.99",
       "Audio": "$33.27"
     },
-    "rating_breakdown": ["1", "2", "6", "20", "70"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "6",
+      "20",
+      "70"
+    ],
     "ranking": []
   },
   {
@@ -530,7 +673,13 @@
       "Hardcover": "$18.57",
       "Paperback": "$19.00"
     },
-    "rating_breakdown": ["1", "1", "3", "13", "83"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "3",
+      "13",
+      "83"
+    ],
     "ranking": []
   },
   {
@@ -549,7 +698,13 @@
       "Paperback": "$19.99",
       "Audio": "$43.73"
     },
-    "rating_breakdown": ["1", "1", "6", "19", "73"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "6",
+      "19",
+      "73"
+    ],
     "ranking": [
       "#1,004 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#3 in Sports Fiction (Audible Books & Originals)",
@@ -572,7 +727,13 @@
       "Hardcover": "$14.11",
       "Paperback": "$17.00"
     },
-    "rating_breakdown": ["1", "1", "6", "28", "64"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "6",
+      "28",
+      "64"
+    ],
     "ranking": [
       "#1,425 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#10 in Black & African American Historical Fiction (Books)",
@@ -595,7 +756,13 @@
       "Hardcover": "$24.33",
       "Paperback": "$34.58"
     },
-    "rating_breakdown": ["1", "1", "4", "21", "73"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "4",
+      "21",
+      "73"
+    ],
     "ranking": []
   },
   {
@@ -614,7 +781,13 @@
       "Paperback": "$17.99",
       "Audio": "$31.61"
     },
-    "rating_breakdown": ["1", "1", "5", "25", "69"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "5",
+      "25",
+      "69"
+    ],
     "ranking": []
   },
   {
@@ -632,7 +805,13 @@
       "Hardcover": "$14.74",
       "Paperback": "$10.00"
     },
-    "rating_breakdown": ["2", "3", "13", "34", "48"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "13",
+      "34",
+      "48"
+    ],
     "ranking": [
       "#97 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#1 in Cozy Mysteries (Audible Books & Originals)",
@@ -655,7 +834,13 @@
       "Hardcover": "$20.49",
       "Paperback": "$11.63"
     },
-    "rating_breakdown": ["1", "2", "11", "32", "54"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "11",
+      "32",
+      "54"
+    ],
     "ranking": []
   },
   {
@@ -673,7 +858,13 @@
       "Hardcover": "$20.42",
       "Paperback": "$16.24"
     },
-    "rating_breakdown": ["1", "4", "7", "13", "74"],
+    "rating_breakdown": [
+      "1",
+      "4",
+      "7",
+      "13",
+      "74"
+    ],
     "ranking": []
   },
   {
@@ -692,7 +883,13 @@
       "Paperback": "$9.99",
       "Audio": "$31.70"
     },
-    "rating_breakdown": ["0", "1", "7", "26", "66"],
+    "rating_breakdown": [
+      "0",
+      "1",
+      "7",
+      "26",
+      "66"
+    ],
     "ranking": []
   },
   {
@@ -711,7 +908,13 @@
       "Paperback": "$14.24",
       "Audio": "\u2014"
     },
-    "rating_breakdown": ["2", "4", "18", "36", "39"],
+    "rating_breakdown": [
+      "2",
+      "4",
+      "18",
+      "36",
+      "39"
+    ],
     "ranking": [
       "#196 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#2 in Women Sleuth Mysteries",
@@ -735,7 +938,13 @@
       "Paperback": "$12.49",
       "Audio": "$31.44"
     },
-    "rating_breakdown": ["1", "2", "11", "33", "53"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "11",
+      "33",
+      "53"
+    ],
     "ranking": []
   },
   {
@@ -753,7 +962,13 @@
       "Hardcover": "$18.99",
       "Paperback": "$27.44"
     },
-    "rating_breakdown": ["2", "3", "12", "30", "52"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "12",
+      "30",
+      "52"
+    ],
     "ranking": []
   },
   {
@@ -771,7 +986,13 @@
       "Hardcover": "$10.49",
       "Paperback": "$11.69"
     },
-    "rating_breakdown": ["1", "1", "4", "18", "76"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "4",
+      "18",
+      "76"
+    ],
     "ranking": []
   },
   {
@@ -789,7 +1010,13 @@
       "Hardcover": "$20.99",
       "Paperback": "$16.20"
     },
-    "rating_breakdown": ["2", "3", "9", "23", "64"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "9",
+      "23",
+      "64"
+    ],
     "ranking": []
   },
   {
@@ -806,7 +1033,13 @@
       "Hardcover": "$14.89",
       "Paperback": "$16.20"
     },
-    "rating_breakdown": ["2", "2", "7", "21", "69"],
+    "rating_breakdown": [
+      "2",
+      "2",
+      "7",
+      "21",
+      "69"
+    ],
     "ranking": []
   },
   {
@@ -825,7 +1058,13 @@
       "Paperback": "$17.00",
       "Audio": "$39.99"
     },
-    "rating_breakdown": ["1", "2", "12", "34", "51"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "12",
+      "34",
+      "51"
+    ],
     "ranking": [
       "#1,309 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#26 in Romantic Comedy (Audible Books & Originals)",
@@ -849,7 +1088,13 @@
       "Paperback": "$18.99",
       "Audio": "$23.45"
     },
-    "rating_breakdown": ["3", "5", "14", "26", "52"],
+    "rating_breakdown": [
+      "3",
+      "5",
+      "14",
+      "26",
+      "52"
+    ],
     "ranking": []
   },
   {
@@ -868,7 +1113,13 @@
       "Paperback": "$18.00",
       "Audio": "$31.22"
     },
-    "rating_breakdown": ["1", "2", "11", "32", "53"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "11",
+      "32",
+      "53"
+    ],
     "ranking": [
       "#4,842 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#3 in Historical African Biographies (Books)",
@@ -891,7 +1142,13 @@
       "Hardcover": "$20.49",
       "Paperback": "$16.20"
     },
-    "rating_breakdown": ["1", "1", "5", "16", "77"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "5",
+      "16",
+      "77"
+    ],
     "ranking": [
       "#629 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#5 in PTSD",
@@ -915,7 +1172,13 @@
       "Paperback": "$17.99",
       "Audio": "$39.99"
     },
-    "rating_breakdown": ["1", "3", "14", "32", "50"],
+    "rating_breakdown": [
+      "1",
+      "3",
+      "14",
+      "32",
+      "50"
+    ],
     "ranking": []
   },
   {
@@ -935,7 +1198,13 @@
       "Spiral-bound": "$31.14",
       "Audio": "$33.27"
     },
-    "rating_breakdown": ["1", "1", "6", "26", "66"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "6",
+      "26",
+      "66"
+    ],
     "ranking": []
   },
   {
@@ -953,7 +1222,13 @@
       "Hardcover": "$15.27",
       "Paperback": "$19.95"
     },
-    "rating_breakdown": ["0", "2", "4", "20", "74"],
+    "rating_breakdown": [
+      "0",
+      "2",
+      "4",
+      "20",
+      "74"
+    ],
     "ranking": []
   },
   {
@@ -971,7 +1246,13 @@
       "Hardcover": "$10.47",
       "Audio": "$32.55"
     },
-    "rating_breakdown": ["1", "1", "8", "14", "76"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "8",
+      "14",
+      "76"
+    ],
     "ranking": []
   },
   {
@@ -990,7 +1271,13 @@
       "Paperback": "$16.33",
       "Audio": "$34.86"
     },
-    "rating_breakdown": ["2", "3", "11", "30", "54"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "11",
+      "30",
+      "54"
+    ],
     "ranking": []
   },
   {
@@ -1008,7 +1295,13 @@
       "Hardcover": "$15.22",
       "Paperback": "$24.65"
     },
-    "rating_breakdown": ["2", "3", "9", "27", "59"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "9",
+      "27",
+      "59"
+    ],
     "ranking": []
   },
   {
@@ -1026,7 +1319,13 @@
       "Hardcover": "$16.99",
       "Paperback": "$17.00"
     },
-    "rating_breakdown": ["1", "2", "11", "26", "59"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "11",
+      "26",
+      "59"
+    ],
     "ranking": [
       "#5,865 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#9 in Urban Fiction (Audible Books & Originals)",
@@ -1050,7 +1349,13 @@
       "Paperback": "$16.33",
       "Audio": "$34.86"
     },
-    "rating_breakdown": ["2", "3", "11", "30", "54"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "11",
+      "30",
+      "54"
+    ],
     "ranking": []
   },
   {
@@ -1068,7 +1373,13 @@
       "Hardcover": "$16.99",
       "Paperback": "$12.75"
     },
-    "rating_breakdown": ["1", "2", "11", "30", "56"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "11",
+      "30",
+      "56"
+    ],
     "ranking": [
       "#466 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#9 in Coming of Age Fiction (Audible Books & Originals)",
@@ -1091,7 +1402,13 @@
       "Hardcover": "$14.11",
       "Paperback": "$11.69"
     },
-    "rating_breakdown": ["1", "2", "8", "26", "63"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "8",
+      "26",
+      "63"
+    ],
     "ranking": []
   },
   {
@@ -1108,7 +1425,13 @@
       "Audiobook": "$0.00",
       "Paperback": "$12.91"
     },
-    "rating_breakdown": ["1", "3", "14", "32", "50"],
+    "rating_breakdown": [
+      "1",
+      "3",
+      "14",
+      "32",
+      "50"
+    ],
     "ranking": []
   },
   {
@@ -1127,7 +1450,13 @@
       "Paperback": "$16.99",
       "Audio": "$55.00"
     },
-    "rating_breakdown": ["4", "4", "9", "22", "62"],
+    "rating_breakdown": [
+      "4",
+      "4",
+      "9",
+      "22",
+      "62"
+    ],
     "ranking": []
   },
   {
@@ -1146,7 +1475,13 @@
       "Paperback": "$18.99",
       "Audio": "$31.70"
     },
-    "rating_breakdown": ["2", "2", "5", "19", "71"],
+    "rating_breakdown": [
+      "2",
+      "2",
+      "5",
+      "19",
+      "71"
+    ],
     "ranking": []
   },
   {
@@ -1165,7 +1500,13 @@
       "Paperback": "$18.99",
       "Audio": "$29.30"
     },
-    "rating_breakdown": ["2", "5", "21", "38", "34"],
+    "rating_breakdown": [
+      "2",
+      "5",
+      "21",
+      "38",
+      "34"
+    ],
     "ranking": [
       "#4,762 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#8 in Southern United States Literature",
@@ -1188,7 +1529,13 @@
       "Hardcover": "$14.25",
       "Paperback": "$18.00"
     },
-    "rating_breakdown": ["1", "2", "8", "22", "68"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "8",
+      "22",
+      "68"
+    ],
     "ranking": [
       "#3,072 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#6 in Serial Killers True Crime",
@@ -1212,7 +1559,13 @@
       "Paperback": "$26.91",
       "Audio": "$33.53"
     },
-    "rating_breakdown": ["1", "1", "6", "24", "68"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "6",
+      "24",
+      "68"
+    ],
     "ranking": []
   },
   {
@@ -1231,7 +1584,13 @@
       "Paperback": "$19.99",
       "Audio": "$29.77"
     },
-    "rating_breakdown": ["1", "2", "7", "19", "70"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "7",
+      "19",
+      "70"
+    ],
     "ranking": [
       "#1,497 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#15 in Biographies of Women",
@@ -1254,7 +1613,13 @@
       "Hardcover": "$17.29",
       "Paperback": "$18.00"
     },
-    "rating_breakdown": ["1", "2", "14", "39", "43"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "14",
+      "39",
+      "43"
+    ],
     "ranking": []
   },
   {
@@ -1272,7 +1637,13 @@
       "Hardcover": "$23.99",
       "Paperback": "$17.99"
     },
-    "rating_breakdown": ["2", "3", "15", "33", "48"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "15",
+      "33",
+      "48"
+    ],
     "ranking": [
       "#9,761 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#16 in Latino American Literature",
@@ -1295,7 +1666,13 @@
       "Hardcover": "$17.22",
       "Paperback": "$21.49"
     },
-    "rating_breakdown": ["2", "0", "3", "12", "83"],
+    "rating_breakdown": [
+      "2",
+      "0",
+      "3",
+      "12",
+      "83"
+    ],
     "ranking": []
   },
   {
@@ -1313,7 +1690,13 @@
       "Hardcover": "$16.99",
       "Paperback": "$17.00"
     },
-    "rating_breakdown": ["1", "3", "13", "35", "49"],
+    "rating_breakdown": [
+      "1",
+      "3",
+      "13",
+      "35",
+      "49"
+    ],
     "ranking": []
   },
   {
@@ -1331,7 +1714,13 @@
       "Hardcover": "$14.29",
       "Paperback": "$16.95"
     },
-    "rating_breakdown": ["2", "3", "13", "30", "52"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "13",
+      "30",
+      "52"
+    ],
     "ranking": [
       "#10,983 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#22 in Ghost Horror Fiction",
@@ -1354,7 +1743,13 @@
       "Hardcover": "$16.99",
       "Paperback": "$9.99"
     },
-    "rating_breakdown": ["1", "2", "9", "27", "61"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "9",
+      "27",
+      "61"
+    ],
     "ranking": []
   },
   {
@@ -1373,7 +1768,13 @@
       "Paperback": "$18.00",
       "Spiral-bound": "$50.94"
     },
-    "rating_breakdown": ["2", "1", "7", "27", "63"],
+    "rating_breakdown": [
+      "2",
+      "1",
+      "7",
+      "27",
+      "63"
+    ],
     "ranking": []
   },
   {
@@ -1392,7 +1793,13 @@
       "Paperback": "$18.99",
       "Audio": "$31.68"
     },
-    "rating_breakdown": ["3", "9", "18", "23", "47"],
+    "rating_breakdown": [
+      "3",
+      "9",
+      "18",
+      "23",
+      "47"
+    ],
     "ranking": []
   },
   {
@@ -1411,7 +1818,13 @@
       "Paperback": "$19.99",
       "Audio": "$45.00"
     },
-    "rating_breakdown": ["3", "4", "7", "16", "70"],
+    "rating_breakdown": [
+      "3",
+      "4",
+      "7",
+      "16",
+      "70"
+    ],
     "ranking": []
   },
   {
@@ -1430,7 +1843,13 @@
       "Paperback": "$13.95",
       "Audio": "$24.93"
     },
-    "rating_breakdown": ["0", "2", "5", "20", "73"],
+    "rating_breakdown": [
+      "0",
+      "2",
+      "5",
+      "20",
+      "73"
+    ],
     "ranking": []
   },
   {
@@ -1449,7 +1868,13 @@
       "Paperback": "$18.00",
       "Audio": "$36.59"
     },
-    "rating_breakdown": ["2", "3", "10", "35", "50"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "10",
+      "35",
+      "50"
+    ],
     "ranking": []
   },
   {
@@ -1467,7 +1892,13 @@
       "Hardcover": "$22.49",
       "Paperback": "$17.00"
     },
-    "rating_breakdown": ["1", "5", "11", "22", "61"],
+    "rating_breakdown": [
+      "1",
+      "5",
+      "11",
+      "22",
+      "61"
+    ],
     "ranking": []
   },
   {
@@ -1485,7 +1916,13 @@
       "Hardcover": "$23.99",
       "Paperback": "$16.20"
     },
-    "rating_breakdown": ["1", "2", "8", "20", "69"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "8",
+      "20",
+      "69"
+    ],
     "ranking": []
   },
   {
@@ -1503,7 +1940,13 @@
       "Hardcover": "$24.49",
       "Paperback": "$23.52"
     },
-    "rating_breakdown": ["0", "4", "6", "26", "64"],
+    "rating_breakdown": [
+      "0",
+      "4",
+      "6",
+      "26",
+      "64"
+    ],
     "ranking": []
   },
   {
@@ -1522,7 +1965,13 @@
       "Paperback": "$17.99",
       "Audio": "$18.43"
     },
-    "rating_breakdown": ["1", "2", "10", "29", "57"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "10",
+      "29",
+      "57"
+    ],
     "ranking": [
       "#662 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#8 in First Contact Science Fiction (Audible Books & Originals)",
@@ -1545,7 +1994,13 @@
       "Hardcover": "$1.49",
       "Paperback": "$12.99"
     },
-    "rating_breakdown": ["1", "1", "15", "33", "50"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "15",
+      "33",
+      "50"
+    ],
     "ranking": []
   },
   {
@@ -1564,7 +2019,13 @@
       "Paperback": "$18.99",
       "Audio": "$26.74"
     },
-    "rating_breakdown": ["4", "0", "9", "17", "70"],
+    "rating_breakdown": [
+      "4",
+      "0",
+      "9",
+      "17",
+      "70"
+    ],
     "ranking": []
   },
   {
@@ -1582,7 +2043,13 @@
       "Hardcover": "$15.99",
       "Paperback": "$19.00"
     },
-    "rating_breakdown": ["1", "1", "6", "20", "73"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "6",
+      "20",
+      "73"
+    ],
     "ranking": []
   },
   {
@@ -1599,7 +2066,13 @@
       "Audiobook": "$0.00",
       "Hardcover": "$10.28"
     },
-    "rating_breakdown": ["2", "1", "8", "22", "66"],
+    "rating_breakdown": [
+      "2",
+      "1",
+      "8",
+      "22",
+      "66"
+    ],
     "ranking": []
   },
   {
@@ -1616,7 +2089,13 @@
       "Audiobook": "$0.00",
       "Hardcover": "$12.33"
     },
-    "rating_breakdown": ["1", "1", "4", "10", "84"],
+    "rating_breakdown": [
+      "1",
+      "1",
+      "4",
+      "10",
+      "84"
+    ],
     "ranking": []
   },
   {
@@ -1634,7 +2113,13 @@
       "Hardcover": "$20.49",
       "Paperback": "$24.00"
     },
-    "rating_breakdown": ["1", "3", "13", "26", "57"],
+    "rating_breakdown": [
+      "1",
+      "3",
+      "13",
+      "26",
+      "57"
+    ],
     "ranking": []
   },
   {
@@ -1652,7 +2137,13 @@
       "Paperback": "$12.00",
       "Audio": "$25.00"
     },
-    "rating_breakdown": ["0", "1", "9", "34", "56"],
+    "rating_breakdown": [
+      "0",
+      "1",
+      "9",
+      "34",
+      "56"
+    ],
     "ranking": []
   },
   {
@@ -1670,7 +2161,13 @@
       "Hardcover": "$25.31",
       "Paperback": "$17.99"
     },
-    "rating_breakdown": ["1", "2", "12", "29", "56"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "12",
+      "29",
+      "56"
+    ],
     "ranking": []
   },
   {
@@ -1688,7 +2185,13 @@
       "Hardcover": "$23.99",
       "Paperback": "$23.06"
     },
-    "rating_breakdown": ["2", "3", "4", "9", "83"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "4",
+      "9",
+      "83"
+    ],
     "ranking": []
   },
   {
@@ -1706,7 +2209,13 @@
       "Hardcover": "$15.49",
       "Paperback": "$17.00"
     },
-    "rating_breakdown": ["1", "3", "13", "37", "47"],
+    "rating_breakdown": [
+      "1",
+      "3",
+      "13",
+      "37",
+      "47"
+    ],
     "ranking": []
   },
   {
@@ -1725,7 +2234,13 @@
       "Paperback": "$21.99",
       "Audio": "$28.00"
     },
-    "rating_breakdown": ["4", "3", "11", "26", "57"],
+    "rating_breakdown": [
+      "4",
+      "3",
+      "11",
+      "26",
+      "57"
+    ],
     "ranking": []
   },
   {
@@ -1744,7 +2259,13 @@
       "Paperback": "$16.99",
       "Audio": "$23.52"
     },
-    "rating_breakdown": ["2", "2", "14", "35", "47"],
+    "rating_breakdown": [
+      "2",
+      "2",
+      "14",
+      "35",
+      "47"
+    ],
     "ranking": []
   },
   {
@@ -1763,7 +2284,13 @@
       "Paperback": "$10.99",
       "Audio": "$13.72"
     },
-    "rating_breakdown": ["2", "4", "15", "29", "50"],
+    "rating_breakdown": [
+      "2",
+      "4",
+      "15",
+      "29",
+      "50"
+    ],
     "ranking": []
   },
   {
@@ -1781,7 +2308,13 @@
       "Hardcover": "$24.49",
       "Paperback": "$25.75"
     },
-    "rating_breakdown": ["1", "2", "7", "26", "64"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "7",
+      "26",
+      "64"
+    ],
     "ranking": []
   },
   {
@@ -1799,7 +2332,13 @@
       "Hardcover": "$20.99",
       "Paperback": "$18.00"
     },
-    "rating_breakdown": ["1", "2", "4", "23", "70"],
+    "rating_breakdown": [
+      "1",
+      "2",
+      "4",
+      "23",
+      "70"
+    ],
     "ranking": []
   },
   {
@@ -1817,7 +2356,13 @@
       "Paperback": "$10.23",
       "Audio": "$28.40"
     },
-    "rating_breakdown": ["0", "4", "19", "36", "40"],
+    "rating_breakdown": [
+      "0",
+      "4",
+      "19",
+      "36",
+      "40"
+    ],
     "ranking": []
   },
   {
@@ -1835,7 +2380,13 @@
       "Hardcover": "$19.23",
       "Paperback": "$17.26"
     },
-    "rating_breakdown": ["2", "12", "27", "31", "28"],
+    "rating_breakdown": [
+      "2",
+      "12",
+      "27",
+      "31",
+      "28"
+    ],
     "ranking": []
   },
   {
@@ -1853,7 +2404,13 @@
       "Hardcover": "$16.99",
       "Paperback": "$17.99"
     },
-    "rating_breakdown": ["3", "6", "19", "33", "39"],
+    "rating_breakdown": [
+      "3",
+      "6",
+      "19",
+      "33",
+      "39"
+    ],
     "ranking": []
   },
   {
@@ -1872,7 +2429,13 @@
       "Paperback": "$17.95",
       "Audio": "$31.95"
     },
-    "rating_breakdown": ["6", "6", "12", "22", "53"],
+    "rating_breakdown": [
+      "6",
+      "6",
+      "12",
+      "22",
+      "53"
+    ],
     "ranking": []
   },
   {
@@ -1890,7 +2453,13 @@
       "Hardcover": "$24.64",
       "Paperback": "$18.95"
     },
-    "rating_breakdown": ["2", "3", "9", "31", "55"],
+    "rating_breakdown": [
+      "2",
+      "3",
+      "9",
+      "31",
+      "55"
+    ],
     "ranking": []
   },
   {
@@ -1909,7 +2478,13 @@
       "Paperback": "$13.50",
       "Audio": "$25.30"
     },
-    "rating_breakdown": ["3", "6", "18", "29", "43"],
+    "rating_breakdown": [
+      "3",
+      "6",
+      "18",
+      "29",
+      "43"
+    ],
     "ranking": []
   },
   {
@@ -1928,7 +2503,13 @@
       "Paperback": "$14.39",
       "Audio": "$30.90"
     },
-    "rating_breakdown": ["1", "3", "14", "36", "47"],
+    "rating_breakdown": [
+      "1",
+      "3",
+      "14",
+      "36",
+      "47"
+    ],
     "ranking": [
       "#1,047 in Audible Books & Originals (See Top 100 in Audible Books & Originals)",
       "#6 in Friendship Fiction (Audible Books & Originals)",
@@ -1951,7 +2532,13 @@
       "Hardcover": "$15.99",
       "Paperback": "$18.00"
     },
-    "rating_breakdown": ["2", "0", "9", "38", "51"],
+    "rating_breakdown": [
+      "2",
+      "0",
+      "9",
+      "38",
+      "51"
+    ],
     "ranking": []
   },
   {
@@ -1970,7 +2557,13 @@
       "Paperback": "$12.26",
       "Audio": "$5.62"
     },
-    "rating_breakdown": ["4", "7", "22", "30", "37"],
+    "rating_breakdown": [
+      "4",
+      "7",
+      "22",
+      "30",
+      "37"
+    ],
     "ranking": []
   },
   {
@@ -1982,8 +2575,15 @@
     "product_link": "/Book-Meant-be-Novel/dp/1368050395/ref=sr_1_100?qid=1680261638&sr=8-100&srs=17296221011",
     "publisher": "Hyperion Avenue",
     "publish_date": "Jan 1, 1970",
-    "prices": { "Hardcover": "$27.23" },
-    "rating_breakdown": ["0", "15", "0", "19", "66"],
+    "prices": {
+      "Hardcover": "$27.23"
+    },
+    "rating_breakdown": [
+      "0",
+      "15",
+      "0",
+      "19",
+      "66"
+    ],
     "ranking": []
   }
-]
