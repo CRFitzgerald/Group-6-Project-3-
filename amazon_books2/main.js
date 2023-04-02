@@ -97,11 +97,16 @@ d3.json('top_100_books.json').then(function(data) {
 
   // Get the first book from the sorted data
   var firstBook = data[0];
+  console.log(firstBook);
 
-  // Update the HTML with the first book's image, author, and publish date
+  // Update the HTML with the first book's image, author, publish date, and prices
   d3.select('#book-image').attr('src', firstBook.image);
   d3.select('#book-author').text(firstBook.author);
   d3.select('#book-publish-date').text(firstBook.publish_date);
+  d3.select('#kindle-price').text(firstBook.prices.Kindle);
+  d3.select('#audiobook-price').text(firstBook.prices.Audiobook);
+  d3.select('#hardcover-price').text(firstBook.prices.Hardcover);
+  d3.select('#paperback-price').text(firstBook.prices.Paperback);
 
   // Display the book information when a title is selected
   dropdown.on('change', function() {
@@ -110,12 +115,13 @@ d3.json('top_100_books.json').then(function(data) {
           return d.title === selectedTitle;
       });
 
-      // Update the HTML with the selected book's image, author, and publish date
+      // Update the HTML with the selected book's image, author, publish date, and prices
       d3.select('#book-image').attr('src', selectedBook.image);
       d3.select('#book-author').text(selectedBook.author);
       d3.select('#book-publish-date').text(selectedBook.publish_date);
+      d3.select('#kindle-price').text(selectedBook.prices.Kindle);
+      d3.select('#audiobook-price').text(selectedBook.prices.Audiobook);
+      d3.select('#hardcover-price').text(selectedBook.prices.Hardcover);
+      d3.select('#paperback-price').text(selectedBook.prices.Paperback);
   });
 });
-
-  
-  

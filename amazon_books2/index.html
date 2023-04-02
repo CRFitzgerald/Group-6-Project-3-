@@ -29,17 +29,24 @@
   <header>
   <h1>Amazon's 2022 Best Books</h1>
   </header>
-  <div class="container">
+  <div class="container1">
   <select id="book-select"></select>
   <div>
     <img id="book-image" src="" alt="Book Cover">
     <div id="book-details">
-      <h4>Book Author:</h4>
-      <div id="book-author">Author Name</div>
-      <h4>Publish Date:</h4>
-      <div id="book-publish-date">Publish Date</div>
+      <p><b>Book Author:</b> <span id="book-author" class="book-detail">book_author</span></p>
+      <p><b>Publish Date:</b> <span id="publish-date" class="book-detail">publish_date</span></p>
+    </div>
   </div>
   </div>
+  <div class="container2">
+    <div id="book-prices">
+      <h4>Book Prices:</h4>
+      <p>Kindle: <span id="kindle-price" class="book-price">price_for_kindle</span></p>
+      <p>Audiobook: <span id="audiobook-price" class="book-price">price_for_audiobook</span></p>
+      <p>Hardcover: <span id="hardcover-price" class="book-price">price_for_hardcover</span></p>
+      <p>Paperback: <span id="paperback-price" class="book-price">price_for_paperback</span></p>
+    </div>
   </div>
     <!-- JavaScript source -->
     <script src="main.js"></script>
