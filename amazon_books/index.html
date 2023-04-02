@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Top 10 on Amazon's 2022 Best Books</title>
+    <!-- Load Highcharts from CDN -->
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <!-- Load jQuery from CDN -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    
+  </head>
+  <body>
+    <h1>Top 10 on Amazon's 2022 Best Books</h1>
+    <select id="chart-type">
+        <option value="rating">Top 5 Rating</option>
+        <option value="review_count">Top 5 Review Count</option>
+        <option value="kindle_highest">Top 5 Highest Priced in Kindle</option>
+        <option value="kindle_lowest">Top 5 Lowest Priced in Kindle</option>
+        <option value="hardcover_highest">Top 5 Highest Priced in Hardcover</option>
+        <option value="hardcover_lowest">Top 5 Lowest Priced in Hardcover</option>
+    </select>
+    <div id="chart-container"></div>  
+    <script src="main.js"></script>
+  </body>
+</html>
+
