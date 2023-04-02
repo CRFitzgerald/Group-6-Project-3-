@@ -9,7 +9,7 @@ $.getJSON('top_100_books.json', function(data) {
         type: 'column'
       },
       title: {
-        text: 'Top 5 Books'
+        text: 'Top 10 Books'
       },
       xAxis: {
         categories: [],
@@ -34,6 +34,18 @@ $.getJSON('top_100_books.json', function(data) {
       if (chartType === 'review_count') {
         options.yAxis.title.text = 'Review Count';
         options.series[0].name = 'Review Count';
+      } else if (chartType === 'kindle_highest') {
+        options.yAxis.title.text = '10 Highest Priced Kindle Books';
+        options.series[0].name = '10 Highest Priced Kindle Books';
+      } else if (chartType === 'kindle_lowest') {
+        options.yAxis.title.text = '10 Lowest Priced Kindle Books';
+        options.series[0].name = '10 Lowest Priced Kindle Books';
+      } else if (chartType === 'hardcover_highest') {
+        options.yAxis.title.text = '10 Highest Priced Hardcover Books';
+        options.series[0].name = '10 Highest Priced Hardcover Books';
+      } else if (chartType === 'hardcover_lowest') {
+        options.yAxis.title.text = '10 Lowest Priced Hardcover Books';
+        options.series[0].name = '10 Lowest Priced Hardcover Books';
       } else {
         options.yAxis.title.text = 'Rating';
         options.series[0].name = 'Rating';
