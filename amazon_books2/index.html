@@ -9,16 +9,16 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <!-- Load D3 from CDN -->
     <script src="https://d3js.org/d3.v6.min.js"></script>
-    <!-- CSS -->
+    <!-- Apply the stylesheet -->
     <link rel="stylesheet" href="style.css">
-    
   </head>
+
   <body>
   <header>
     <h1>Top 10 on Amazon's 2022 Best Books</h1>
   </header>
   <div class="container">
-    <!-- Create the drill down menu -->
+    <!-- Create the first drill down menu -->
     <select id="chart-type">
         <option value="rating">Top 10 Rating</option>
         <option value="review_count">Top 10 Review Count</option>
@@ -29,16 +29,19 @@
   <header>
   <h1>Amazon's 2022 Best Books</h1>
   </header>
+  <!-- Create the container for the book image, author, publish date -->
   <div class="container1">
+  <!-- Create the second drill down menu -->
   <select id="book-select"></select>
   <div>
     <img id="book-image" src="" alt="Book Cover">
     <div id="book-details">
       <p><b>Book Author:</b> <span id="book-author" class="book-detail">book_author</span></p>
-      <p><b>Publish Date:</b> <span id="publish-date" class="book-detail">publish_date</span></p>
+      <p><b>Publish Date:</b> <span id="book-publish-date" class="book-detail">publish_date</span></p>
     </div>
   </div>
   </div>
+  <!-- Create the container for the book price -->
   <div class="container2">
     <div id="book-prices">
       <h4>Book Prices:</h4>
