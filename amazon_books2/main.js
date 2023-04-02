@@ -95,6 +95,14 @@ d3.json('top_100_books.json').then(function(data) {
       dropdown.append('option').text(d.title);
   });
 
+  // Get the first book from the sorted data
+  var firstBook = data[0];
+
+  // Update the HTML with the first book's image, author, and publish date
+  d3.select('#book-image').attr('src', firstBook.image);
+  d3.select('#book-author').text(firstBook.author);
+  d3.select('#book-publish-date').text(firstBook.publish_date);
+
   // Display the book information when a title is selected
   dropdown.on('change', function() {
       var selectedTitle = this.value;

@@ -26,12 +26,20 @@
     <!-- Create the container for the bar graphs -->
     <div id="chart-container"></div>
   </div>
+  <header>
   <h1>Amazon's 2022 Best Books</h1>
+  </header>
+  <div class="container">
   <select id="book-select"></select>
   <div>
     <img id="book-image" src="" alt="Book Cover">
-    <p id="book-author"></p>
-    <p id="book-publish-date"></p>
+    <div id="book-details">
+      <h4>Book Author:</h4>
+      <div id="book-author">Author Name</div>
+      <h4>Publish Date:</h4>
+      <div id="book-publish-date">Publish Date</div>
+  </div>
+  </div>
   </div>
     <!-- JavaScript source -->
     <script src="main.js"></script>
