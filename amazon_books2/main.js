@@ -42,12 +42,11 @@ $.getJSON('top_100_books.json', function(data) {
         return parseFloat(b[chartType].replace(/,/g, '')) - parseFloat(a[chartType].replace(/,/g, ''));
       }).slice(0, 10);
   
-      // Update the chart categories and data
+      // Update the chart categories and data.  Sorts the values from highest to lowest.
       options.xAxis.categories = sortedData.map(function(item) {
         return item.title;
       });
       options.series[0].data = sortedData.map(function(item) {
-        //return parseFloat(item[chartType].replace(/,/g, ''));
         return parseFloat(item[chartType].replace(/,/g, ''));
       });
   
