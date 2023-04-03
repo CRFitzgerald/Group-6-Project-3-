@@ -1,3 +1,4 @@
+// Code block for the bar chart of top 10 rating and review count
 // Load the JSON file
 $.getJSON('top_100_books.json', function(data) {
     console.log(data);
@@ -8,15 +9,8 @@ $.getJSON('top_100_books.json', function(data) {
         renderTo: 'chart-container',
         type: 'column'
       },
-      title: {
-        text: 'Top 10 Books'
-      },
-      xAxis: {
-        categories: [],
-        title: {
-          text: 'Title'
-        }
-      },
+      title: {},
+      xAxis: {},
       yAxis: {
         title: {
           text: 'Rating'
@@ -53,6 +47,7 @@ $.getJSON('top_100_books.json', function(data) {
         return item.title;
       });
       options.series[0].data = sortedData.map(function(item) {
+        //return parseFloat(item[chartType].replace(/,/g, ''));
         return parseFloat(item[chartType].replace(/,/g, ''));
       });
   
@@ -72,6 +67,7 @@ $.getJSON('top_100_books.json', function(data) {
   
   });
 
+// Code block for selecting the book
 // Load the JSON file
 d3.json('top_100_books.json').then(function(data) {
   // Sort the data by title in alphabetical order
