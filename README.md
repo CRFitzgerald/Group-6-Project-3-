@@ -13,11 +13,20 @@ In our project, we plan on using beautifulsoup as our primary method of collecti
 # Top 10 books based on rating:
 Here we showed which books in 2022 that have the best rating.
 
+![image](https://user-images.githubusercontent.com/86619869/229671009-3704e8c1-6056-4b18-b9a0-707cddca97aa.png)
+
+
 # Top 10 books based on reviews:
 Here we showed which books in 2022 that have the most reviews.
 
+![image](https://user-images.githubusercontent.com/86619869/229671078-877f69d5-724b-47a3-b20c-a79d2dbfbe74.png)
+
+
 # Book information:
 Here we showed the book information such as the author, publish date, and prices.
+
+![image](https://user-images.githubusercontent.com/86619869/229671159-77e6562b-f455-4ce2-a8cb-f509881ae0e9.png)
+
 
 
 
@@ -41,6 +50,6 @@ Min Kyong Kim
 # References:
 
 # Project status:
-Completed
+
 
 
