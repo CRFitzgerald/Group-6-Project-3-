@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Top 10 on Amazon's 2022 Best Books</title>
+    <!-- Load Highcharts from CDN -->
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <!-- Load jQuery from CDN -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Load D3 from CDN -->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <!-- Apply the stylesheet -->
+    <link rel="stylesheet" href="joel_style.css">
+  </head>
+
+  <body>
+  <header>
+    <h1>Top 10 on Amazon's 2022 Best Books</h1>
+  </header>
+  <div class="container">
+    <!-- Create the first drill down menu -->
+    <select id="chart-type">
+        <option value="rating">Top 10 Rating</option>
+        <option value="review_count">Top 10 Review Count</option>
+    </select>
+    <!-- Create the container for the bar graphs -->
+    <div id="chart-container"></div>
+  </div>
+  <header>
+  <h1>Amazon's 2022 Best Books</h1>
+  </header>
+  <!-- Create the container for the book image, author, publish date -->
+  <div class="container1">
+  <!-- Create the second drill down menu -->
+  <select id="book-select"></select>
+  <div>
+    <img id="book-image" src="" alt="Book Cover">
+    <div id="book-details">
+      <p><b>Book Author:</b> <span id="book-author" class="book-detail">book_author</span></p>
+      <p><b>Publish Date:</b> <span id="book-publish-date" class="book-detail">publish_date</span></p>
+    </div>
+  </div>
+  </div>
+  <!-- Create the container for the book price -->
+  <div class="container2">
+    <div id="book-prices">
+      <h4>Book Prices:</h4>
+      <p>Kindle: <span id="kindle-price" class="book-price">price_for_kindle</span></p>
+      <p>Audiobook: <span id="audiobook-price" class="book-price">price_for_audiobook</span></p>
+      <p>Hardcover: <span id="hardcover-price" class="book-price">price_for_hardcover</span></p>
+      <p>Paperback: <span id="paperback-price" class="book-price">price_for_paperback</span></p>
+    </div>
+  </div>
+    <!-- JavaScript source -->
+    <script src="joel_main.js"></script>
+  </body>
+</html>
+
