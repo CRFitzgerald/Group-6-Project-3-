@@ -10,6 +10,10 @@ In our project, we plan on using beautifulsoup as our primary method of collecti
 4. Project must include some level of user-driven interaction (e.g., menus, dropdowns, textboxes).
 5. The final visualization should ideally include at least three views.
 
+# Colleen add your visual here and give explanation:
+
+
+
 # Top 10 books based on rating:
 Here we showed which books in 2022 that have the best rating.
 
@@ -29,11 +33,17 @@ Here we showed the book information such as the author, publish date, and prices
 
 
 
+# Matt add your visual here and give explanation:
+
+
+
+# Min add your visual here and give explanation:
+
 
 # Authors and acknowledgment:
 
 Colleen Fitzgerald
-
+* Put here what you worked on
 
 Joel Pangilinan
 * Worked on GoodReads scraping
@@ -42,12 +52,14 @@ Joel Pangilinan
 * Setup the format on README
 
 Matthew Ng
-
+* Worked on scraping data from Amazon's Best Books 2022.
 
 Min Kyong Kim
-
+* Put here what you worked on
 
 # References:
+Amazon's 2022 Best Books - https://www.amazon.com/b/ref=s9_acss_bw_cg_BOTY2021_1b1_w?node=17296221011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-7&pf_rd_r=Z2M6FVY3X0SWVHCCT7C9&pf_rd_t=101&pf_rd_p=37639f78-55c1-45ae-a9d9-3b173abecba9&pf_rd_i=17276804011
+
 
 # Project status:
 
