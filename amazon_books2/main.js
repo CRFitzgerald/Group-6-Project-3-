@@ -54,8 +54,8 @@ $.getJSON('top_100_books.json', function(data) {
       options.title.text = 'Top 10 Books by ' + chartType.replace('_', ' ');
   
       // Set the chart image
-      var imageUrl = sortedData[0].image;
-      $('#chart-container').css('background-image', 'url(' + imageUrl + ')');
+      //var imageUrl = sortedData[0].image;
+      //$('#chart-container').css('background-image', 'url(' + imageUrl + ')');
   
       // Create the chart
       var chart = new Highcharts.Chart(options);
