@@ -66,13 +66,17 @@ header {
 }
 
 #book-prices {
-	display: flex;
+	display: inline;
 	flex-wrap: wrap;
 }
 
 #book-prices h4 {
 	display: inline-block;
 	width: 100px;
+	margin: 0;
+}
+
+p {
 	margin: 0;
 }
 
