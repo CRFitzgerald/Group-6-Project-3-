@@ -1,0 +1,89 @@
+body {
+	background: #f7eee7 url(../images/pattern.gif) repeat top center;
+	color: #7a6b4e;
+	font-family: Arial;
+	font-size: 14px;
+	margin: 0;
+	min-width: 960px;
+	padding: 0;
+}
+
+header {
+	background-color: #333;
+	color: white;
+	padding: 20px;
+}
+.container {
+	margin: 20px;
+}
+#chart-type {
+	font-size: 16px;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+#chart-container {
+	margin-top: 20px;
+}
+
+.container1 {
+	margin: 20px;
+}
+
+#book-select {
+	font-size: 14px;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+#book-image {
+	font-size: 18px;
+	padding: 40px;
+	border-radius: 20px;
+}
+
+#book-details {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#book-details h4 {
+	display: inline-block;
+	width: 100px;
+	margin: 0;
+}
+
+.book-detail {
+	font-size: 14px;
+	padding: 10px;
+	border-radius: 5px;
+	margin-right: 20px;
+	display: inline-block;
+}
+
+.container2 {
+	margin: 20px;
+}
+
+#book-prices {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#book-prices h4 {
+	display: inline-block;
+	width: 100px;
+	margin: 0;
+}
+
+.book-price {
+	font-size: 14px;
+	padding: 10px;
+	border-radius: 5px;
+	margin-right: 20px;
+	display: inline-block;
+}
+
+.wordcloud {
+	display: inline-block;
+}
