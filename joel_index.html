@@ -5,6 +5,7 @@
     <title>Top 10 on Amazon's 2022 Best Books</title>
     <!-- Load Highcharts from CDN -->
     <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/wordcloud.js"></script>
     <!-- Load jQuery from CDN -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <!-- Load D3 from CDN -->
@@ -20,8 +21,8 @@
   <div class="container">
     <!-- Create the first drill down menu -->
     <select id="chart-type">
-        <option value="rating">Top 10 Rating</option>
-        <option value="review_count">Top 10 Review Count</option>
+        <option value="rating">Top 10 Books by Rating</option>
+        <option value="review_count">Top 10 by Review Count</option>
     </select>
     <!-- Create the container for the bar graphs -->
     <div id="chart-container"></div>
@@ -50,6 +51,10 @@
       <p>Hardcover: <span id="hardcover-price" class="book-price">price_for_hardcover</span></p>
       <p>Paperback: <span id="paperback-price" class="book-price">price_for_paperback</span></p>
     </div>
+  </div>
+  <div class="container3">
+    <h2>Word Cloud of Top Customer Reviews</h2>
+    <div id="wordcloud"></div>
   </div>
     <!-- JavaScript source -->
     <script src="joel_main.js"></script>
