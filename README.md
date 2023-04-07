@@ -32,12 +32,10 @@ Here we showed the book information such as the author, publish date, and prices
 ![image](https://user-images.githubusercontent.com/86619869/229671159-77e6562b-f455-4ce2-a8cb-f509881ae0e9.png)
 
 
+# Word cloud for each book's top reviews:
+We show a word cloud for each book based off of its top customer reviews.
 
-# Matt add your visual here and give explanation:
-
-
-
-# Min add your visual here and give explanation:
+![Screenshot 2023-04-06 at 6 30 17 PM](https://user-images.githubusercontent.com/119067830/230522153-af3d85b2-129a-41cf-88e3-8633ff16a633.png)
 
 
 # Authors and acknowledgment:
