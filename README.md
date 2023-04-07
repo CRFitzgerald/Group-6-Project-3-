@@ -10,6 +10,10 @@ In our project, we plan on using beautifulsoup as our primary method of collecti
 4. Project must include some level of user-driven interaction (e.g., menus, dropdowns, textboxes).
 5. The final visualization should ideally include at least three views.
 
+# Data in MongoDB:
+![image](https://user-images.githubusercontent.com/86619869/230524787-683e406a-8362-4c1d-b952-089881b97fe8.png)
+
+
 # Colleen add your visual here and give explanation:
 
 
