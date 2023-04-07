@@ -14,10 +14,6 @@ In our project, we plan on using beautifulsoup as our primary method of collecti
 ![image](https://user-images.githubusercontent.com/86619869/230524787-683e406a-8362-4c1d-b952-089881b97fe8.png)
 
 
-# Colleen add your visual here and give explanation:
-
-
-
 # Top 10 books based on rating:
 Here we showed which books in 2022 that have the best rating.
 
@@ -69,6 +65,6 @@ Amazon's 2022 Best Books - https://www.amazon.com/b/ref=s9_acss_bw_cg_BOTY2021_1
 
 
 # Project status:
-
+Completed
 
 
