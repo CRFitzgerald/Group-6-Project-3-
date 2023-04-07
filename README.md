@@ -55,6 +55,9 @@ Joel Pangilinan
 
 Matthew Ng
 * Worked on scraping data from Amazon's Best Books 2022.
+* Worked on scraping data from Amazon's Best Books 2022 using beautifulsoup.
+* Worked on powerpoint slides.
+* Created visuals that assisted with drawing insights.
 
 Min Kyong Kim
 * Scraping reviews, book details
