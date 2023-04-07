@@ -40,9 +40,6 @@ We show a word cloud for each book based off of its top customer reviews.
 
 # Authors and acknowledgment:
 
-Colleen Fitzgerald
-* Put here what you worked on
-
 Joel Pangilinan
 * Worked on GoodReads scraping
 * Created the visualization that shows the top 10 rating and reviews
@@ -59,9 +56,15 @@ Min Kyong Kim
 * Created word cloud for each book
 * Created presentation deck
 
+Colleen Fitzgerald
+* Created group repo
+* Researched how Amazon puts together the final year end list
+* Contextualized group's data points within Amazon's methodology and limitations
+
 # References:
 Amazon's 2022 Best Books - https://www.amazon.com/b/ref=s9_acss_bw_cg_BOTY2021_1b1_w?node=17296221011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-7&pf_rd_r=Z2M6FVY3X0SWVHCCT7C9&pf_rd_t=101&pf_rd_p=37639f78-55c1-45ae-a9d9-3b173abecba9&pf_rd_i=17276804011
 
+Yahoo Business Wire - https://www.yahoo.com/now/amazon-books-editors-announce-2022-140000726.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANUFSp0rYBtAvIWwMNQPAJzVYB2nRvDkmucSlXPh400xmQeyEnHeSegR7f14dy-rUvF8JmtRSEuj69axCEgVTmI0_g0OH26Ekv4CH2g9xhAVXJgH5bCrdvo9NavC9GCCoAhpQrhawEOuoDPYuwZFa1lWqPgcWbLEvj9feYV3lq0d#:~:text=The%20annual%20list%20is%20hand,find%20their%20next%20great%20read
 
 # Project status:
 Completed
