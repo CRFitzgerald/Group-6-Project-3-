@@ -50,7 +50,6 @@ Joel Pangilinan
 * Setup the format on README
 
 Matthew Ng
-* Worked on scraping data from Amazon's Best Books 2022.
 * Worked on scraping data from Amazon's Best Books 2022 using beautifulsoup.
 * Worked on powerpoint slides.
 * Created visuals that assisted with drawing insights.
