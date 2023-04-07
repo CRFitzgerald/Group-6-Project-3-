@@ -55,7 +55,9 @@ Matthew Ng
 * Worked on scraping data from Amazon's Best Books 2022.
 
 Min Kyong Kim
-* Put here what you worked on
+* Scraping reviews, book details
+* Created word cloud for each book
+* Created presentation deck
 
 # References:
 Amazon's 2022 Best Books - https://www.amazon.com/b/ref=s9_acss_bw_cg_BOTY2021_1b1_w?node=17296221011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-7&pf_rd_r=Z2M6FVY3X0SWVHCCT7C9&pf_rd_t=101&pf_rd_p=37639f78-55c1-45ae-a9d9-3b173abecba9&pf_rd_i=17276804011
